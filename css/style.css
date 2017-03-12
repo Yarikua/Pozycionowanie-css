@@ -3,9 +3,9 @@
 }
 
 #dziecko1 {
-    position: relative;
+    position: absolute;
 }
 
 #dziecko2 {
-    position: absolute;
+    position: relative;
 }
