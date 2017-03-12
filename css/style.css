@@ -1,0 +1,11 @@
+#rodzic{
+    position: relative;
+}
+
+#dziecko1 {
+    position: relative;
+}
+
+#dziecko2 {
+    position: absolute;
+}
